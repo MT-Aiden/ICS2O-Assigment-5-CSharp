@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/ICS2O-Assigment-4-CSharp/main.csproj",
+      "projectUniqueName": "/home/runner/ICS2O-Assigment-5-CSharp/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/ICS2O-Assigment-4-CSharp/main.csproj",
+      "projectPath": "/home/runner/ICS2O-Assigment-5-CSharp/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/ICS2O-Assigment-4-CSharp/obj/",
+      "outputPath": "/home/runner/ICS2O-Assigment-5-CSharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
